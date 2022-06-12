@@ -1,6 +1,6 @@
 # Development Environment Setup
 
-We encourage all students to use the Conda package management for a better environment manegement. The Conda installation can be found here https://www.anaconda.com/products/individual.
+The Conda installation can be found here https://www.anaconda.com/products/individual.
 
 ## Create environment
 
